@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+*.log
+
+# Maven build files
+target/
+
+# NetBeans private settings
+nbproject/private/
+
+# Operating system files
+.DS_Store
+Thumbs.db
